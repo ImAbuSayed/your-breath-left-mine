@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-breath-left-mine/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Your Breath Left Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-left-mine/) |
+| **Get License** | [License this song: Your Breath Left Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-left-mine/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still taste the midnight on your skin
+> We were losing track of where the shadows end and we begin
+> Caught up in the glow of the firelight
+> Yeah, your breath left mine somewhere in the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
