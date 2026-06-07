@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-breath-left-mine/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Your Breath Left Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-left-mine/) |
+| **Get License** | [Get a Licensing Quote for Your Breath Left Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-left-mine/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c0cc903aabeb329bdb1deabfe9cf9393921405818ca58c90ce829215522dbcc9` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

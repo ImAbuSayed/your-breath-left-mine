@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Breath Left Mine
+
+This log tracks the cryptographic history and versioning for the song **Your Breath Left Mine** (your-breath-left-mine).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T13:47:18.570442 | `v1` | `c0cc903aabeb329bdb1deabfe9cf9393921405818ca58c90ce829215522dbcc9` | `220716166b3545a3b60e93cf1e1e8ca778bd86b735793758f4e8af4ed14419e9` | `2026-06-07_your-breath-left-mine-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
